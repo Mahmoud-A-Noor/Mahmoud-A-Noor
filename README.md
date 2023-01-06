@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mahmoudnoor917@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1xp00r0xyETMPUzxzGXUDWhJqAElly88Z/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1pOj-eH8QvWrASMX61pm_-ogZ6kWJbswZ/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
