@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **Python, Machine Learning, Java and DevOps**
+- 💬 Ask me about **Python, Machine Learning, Java, and DevOps**
 
 - 📫 How to reach me **mahmoudnoor917@gmail.com**
 
-- 📄 Know about my experiences through my [CV](https://drive.google.com/file/d/17rxE7N19Sepep-QcpAfREkQ_fzRaEyZJ/view)
+- 📄 Know about my experiences through my [CV](https://drive.google.com/file/d/1Q3wUdnI7eZG2xvTHs1jwk1VmbtV_BWh2/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
