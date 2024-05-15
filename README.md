@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **Python, Machine Learning, Java, and DevOps**
+- 💬 Ask me about **Python, Machine Learning, and DevOps**
 
 - 📫 How to reach me **mahmoudnoor917@gmail.com**
+
+- 🧑🏻‍💼 checkout [my 2D Game Portofolio](https://mahmoud-a-noor.github.io/2D-Game-Portofolio.github.io/)
 
 - 📄 Know about my experiences through my [CV](https://drive.google.com/file/d/1Q3wUdnI7eZG2xvTHs1jwk1VmbtV_BWh2/view)
 
