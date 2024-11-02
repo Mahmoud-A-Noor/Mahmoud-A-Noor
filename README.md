@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Software Engineer</h1>
 <h3 align="center">A passionate Software Engineer and Python Developer from Egypt</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Python, Machine Learning, and DevOps**
+- 💬 Ask me about **Python, Machine Learning, and React**
 
 - 📫 How to reach me **mahmoudnoor917@gmail.com**
 
