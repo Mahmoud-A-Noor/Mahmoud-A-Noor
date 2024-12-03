@@ -9,7 +9,7 @@
 
 - 🧑🏻‍💼 checkout my [2D Game Portofolio](https://mahmoud-a-noor.github.io/2D-Game-Portofolio.github.io/)
 
-- 📄 Explore my experience by viewing my [CV](https://drive.google.com/file/d/1Q3wUdnI7eZG2xvTHs1jwk1VmbtV_BWh2/view)
+- 📄 Explore my experience by viewing my [CV](https://drive.google.com/file/d/1FWZGUnPEoT5T17JxNNFi3iN7ZJ0yRFIb/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
