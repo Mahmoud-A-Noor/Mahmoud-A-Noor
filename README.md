@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Ahmed Noor Eldin</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 - 🌱 I’m currently learning **AWS**
@@ -7,7 +7,7 @@
 
 - 📫 Email me at **mahmoudnoor917@gmail.com** for any inquiries.
 
-- 🧑🏻‍💼 checkout my [2D Game Portofolio](https://mahmoud-a-noor.github.io/2D-Game-Portofolio.github.io/)
+- 🧑🏻‍💼 Feel free to explore my [personal portfolio](https://mahmoud-a-noor.github.io) or check out my [2D game portfolio](https://mahmoud-a-noor.github.io/2D-Game-Portofolio/)
 
 - 📄 Explore my experience by viewing my [CV](https://drive.google.com/file/d/1I-3I1TDS4fIragG9SsWJ_w-qLipfatEx/view)
 
