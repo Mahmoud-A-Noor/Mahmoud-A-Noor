@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 💬 Ask me about **Python, Django, Machine Learning, Frontend, or anything related to MERN Stack Development!**
+- 💬 Ask me about **Python, Django, Machine Learning, Frontend, or anything related to MERN Stack Development!**
 
 - 📫 Email me at **mahmoudnoor917@gmail.com** for any inquiries.
 
